@@ -3,14 +3,14 @@ MIDI JavaScript plugin which repeats notes and manipulates tempo and pitch accor
 
 To use: 
 
-  (1) Create or select a Software Instrument track in your Logic Pro X project.
+    (1) Create or select a Software Instrument track in your Logic Pro X project.
   
-  (2) Open the Inspector. Under the left channel strip, go to a MIDI FX slot and select "Scripter". Open the plugin.
+    (2) Open the Inspector. Under the left channel strip, go to a MIDI FX slot and select "Scripter". Open the plugin.
   
-  (3) Select "Open Script in Editor." Replace all of the text with with JavaScript code in "repeater.js".
+    (3) Select "Open Script in Editor." Replace all of the text with with JavaScript code in "repeater.js".
 
-  (4) Exit the editor, select "Save As," and name the script whatever you'd like.
+    (4) Exit the editor, select "Save As," and name the script whatever you'd like.
   
-  (5) Experiment with parameters to achieve the effect you desire.
+    (5) Experiment with parameters to achieve the effect you desire.
   
 Enjoy!
