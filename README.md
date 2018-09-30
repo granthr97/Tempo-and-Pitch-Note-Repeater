@@ -1,5 +1,5 @@
 # Tempo-and-Pitch-Note-Repeater
-MIDI JavaScript plugin which repeats notes as it manipulates tempo and pitch according to user settings. Modified from existing code from the Note Repeater in Logic Pro X.
+MIDI JavaScript plugin which repeats notes and manipulates tempo and pitch according to user settings. Modified from existing code from the Note Repeater in Logic Pro X.
 
 To use: 
 
